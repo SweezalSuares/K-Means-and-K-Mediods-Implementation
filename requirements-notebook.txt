@@ -1,0 +1,7 @@
+# Extra packages for the lab notebook and for exact K-Medoids results in the app
+-r requirements.txt
+scikit-learn-extra
+matplotlib
+seaborn
+jupyter
+pytest
